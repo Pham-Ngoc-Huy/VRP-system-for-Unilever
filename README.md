@@ -1,0 +1,1 @@
+This project is hosted by Unilever, building a delivery routing system for wholesalers, retailers,... according to time constraints as well as shipping volume to bring profit to the company. - Apply hybrid algorithm (self-built algorithm - no pre-existing model) to optimize processing time for larger data sets
